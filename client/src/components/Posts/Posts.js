@@ -10,7 +10,7 @@ const Posts=()=>{
      
     return (
         <>
-        <h1>POSTS</h1>
+        <h1>POSTS22</h1>
         <Post/>
         <Post/>
         </>
